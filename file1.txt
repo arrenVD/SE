@@ -5,5 +5,5 @@ doeietsanders();
 
 function2 {
  deze functie doet iets
-
+ nog een aanpassing aan de functie
 }
