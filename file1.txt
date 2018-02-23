@@ -1,4 +1,9 @@
-First file
-yo
-hey
-een aanpassing
+function{ 
+
+
+}
+
+function2 {
+
+
+}
