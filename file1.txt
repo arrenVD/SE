@@ -11,3 +11,7 @@ function2 {
  deze functie doet iets
  nog een aanpassing aan de functie
 }
+
+==========================================
+new update! Working on development branch!
+==========================================
