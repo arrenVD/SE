@@ -2,6 +2,7 @@ function{
 
 doeietsanders();
 tweede aanpassing
+nanananana batman
 }
 
 function2 {
