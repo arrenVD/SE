@@ -4,6 +4,6 @@ doeietsanders();
 }
 
 function2 {
-
+ deze functie doet iets
 
 }
